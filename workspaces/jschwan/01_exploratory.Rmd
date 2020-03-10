@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+Data:
+
+- KenPom
+- ELO
+- Conf Tournament Finish (standardize)
+- Win Streak?
+
+https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament/data
